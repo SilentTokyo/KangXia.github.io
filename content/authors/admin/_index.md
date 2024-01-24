@@ -57,7 +57,7 @@ skills:
       - name: General
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
         percent: 100
-        icon: :man_scientist:
+        icon: 👨‍🔬
         icon_pack: ''
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
