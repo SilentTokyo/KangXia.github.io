@@ -58,22 +58,22 @@ skills:
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
         percent: 90
         icon: 👨‍🔬
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
         percent: 100
         icon: 🧪
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Characterization
         description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
         percent: 90
         icon: 🧪
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: General
         description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
         percent: 80
         icon: ✒️
-        icon_pack: "emoji"
+        icon_pack: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -82,12 +82,12 @@ skills:
         description: SJTU Freshmen Tournament Round of 32
         percent: 70
         icon: 🏸
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Cycling
         description: 6 years’ experience in road and mountain bikes
         percent: 90
         icon: 🚴
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Photography
         description: iStock contract photographer
         percent: 90
@@ -97,17 +97,17 @@ skills:
         description: China, Japan, Korea, New Zealand
         percent: 75
         icon: 🌏
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Cooking
         description: Enjoy trying new dishes
         percent: 60
         icon: 👨‍🍳
-        icon_pack: "emoji"
+        icon_pack: ''
       - name: Poem/Literature writing
         description: Fond of regulated verse and Ci poetry
         percent: 75
         icon: 📝
-        icon_pack: "emoji"
+        icon_pack: ''
 
 # Social/Academic Networking
 # For av"ai"lable icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
