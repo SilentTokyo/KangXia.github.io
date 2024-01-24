@@ -62,17 +62,17 @@ skills:
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
         percent: 100
-        icon: :test_tube:
+        icon: 🧪
         icon_pack: ''
       - name: Characterization
         description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
         percent: 100
-        icon: :test_tube:
+        icon: 🧪
         icon_pack: ''
       - name: General
         description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
         percent: 100
-        icon: :black_nib:
+        icon: ✒️
         icon_pack: ''
   - name: Hobbies
     color: '#eeac02'
@@ -81,12 +81,12 @@ skills:
       - name: Badminton
         description: SJTU Freshmen Tournament Round of 32
         percent: 70
-        icon: :badminton:
+        icon: 🏸
         icon_pack: ''
       - name: Cycling
         description: 6 years’ experience in road and mount"ai"n bikes
         percent: 90
-        icon: :bicyclist:
+        icon: 🚴
         icon_pack: ''
       - name: Photography
         description: iStock contract photographer
@@ -96,17 +96,17 @@ skills:
       - name: Traveling
         description: ''
         percent: 75
-        icon: :earth_asia:
+        icon: 🌏
         icon_pack: ''
       - name: Cooking
         description: Enjoy trying new dishes
         percent: 60
-        icon: :man_cook:
+        icon: 👨‍🍳
         icon_pack: ''
       - name: Poem/Literature writing
         description: Fond of regulated verse and Ci poetry
         percent: 75
-        icon: :memo:
+        icon: 📝
         icon_pack: ''
 
 # Social/Academic Networking
