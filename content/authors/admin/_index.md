@@ -56,7 +56,7 @@ skills:
     items:
       - name: General
         description: Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistry
-        percent: 100
+        percent: 90
         icon: :man_scientist:
         icon_pack: ''
       - name: Material
