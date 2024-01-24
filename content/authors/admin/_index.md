@@ -30,8 +30,8 @@ bio: My current research is focused on controlled design of hybrid materials of 
 # Interests to show in About widget
 interests:
   - Catalysis
-  - Nanomaterials
   - Polyoxometalates
+  - Nanomaterials
   - Mechanochemistry
   - Biochemistry
   - Nanodevice
@@ -46,7 +46,7 @@ education:
       institution: The University of Tokyo
       year: 2019-2021
     - course: BSc in Chemical Engineering
-      institution: Shangh"ai" Jiao Tong University
+      institution: Shanghai Jiao Tong University
       year: 2015-2019
 
 # Skills
@@ -56,24 +56,24 @@ skills:
     items:
       - name: General
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
-        percent: 100
+        percent: 90
         icon: 👨‍🔬
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
         percent: 100
         icon: 🧪
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Characterization
         description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
-        percent: 100
+        percent: 90
         icon: 🧪
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: General
         description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
-        percent: 100
+        percent: 80
         icon: ✒️
-        icon_pack: ''
+        icon_pack: "emoji"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -82,32 +82,32 @@ skills:
         description: SJTU Freshmen Tournament Round of 32
         percent: 70
         icon: 🏸
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Cycling
-        description: 6 years’ experience in road and mount"ai"n bikes
+        description: 6 years’ experience in road and mountain bikes
         percent: 90
         icon: 🚴
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Photography
         description: iStock contract photographer
         percent: 90
         icon: camera-retro
         icon_pack: "fas"
       - name: Traveling
-        description: ''
+        description: China, Japan, Korea, New Zealand
         percent: 75
         icon: 🌏
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Cooking
         description: Enjoy trying new dishes
         percent: 60
         icon: 👨‍🍳
-        icon_pack: ''
+        icon_pack: "emoji"
       - name: Poem/Literature writing
         description: Fond of regulated verse and Ci poetry
         percent: 75
         icon: 📝
-        icon_pack: ''
+        icon_pack: "emoji"
 
 # Social/Academic Networking
 # For av"ai"lable icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -143,5 +143,5 @@ social:
 highlight_name: true
 ---
 
-Kang Xia received his BEng from Shangh"ai" Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications.
+Kang Xia received his BEng from Shanghai Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications.
 {style="text-align: justify;"}
