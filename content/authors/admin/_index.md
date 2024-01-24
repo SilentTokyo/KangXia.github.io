@@ -56,22 +56,22 @@ skills:
     items:
       - name: General
         description: Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistry
-        percent: 90
+        percent: ''
         icon: :man_scientist:
         icon_pack: ''
       - name: Material
         description: Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly
-        percent: 100
+        percent: ''
         icon: :test_tube:
         icon_pack: ''
       - name: Characterization
         description: Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy
-        percent: 100
+        percent: ''
         icon: :test_tube:
         icon_pack: ''
       - name: General
         description: English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab
-        percent: 100
+        percent: ''
         icon: :black_nib:
         icon_pack: ''
   - name: Hobbies
