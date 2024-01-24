@@ -25,7 +25,7 @@ organizations:
     url: https://www.u-tokyo.ac.jp/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research focus is controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications.
+bio: Aimed at controlled design of hybrid materials of polyoxometalates and metal nanoparticles as well as their applications
 
 # Interests to show in About widget
 interests:
@@ -55,7 +55,7 @@ skills:
   - name: Technical
     items:
       - name: General
-        description: Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistry
+        description: Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification
         percent: 100
         icon: :man_scientist:
         icon_pack: ''
