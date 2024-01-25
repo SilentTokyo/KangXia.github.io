@@ -48,6 +48,9 @@ education:
     - course: BSc in Chemical Engineering
       institution: Shanghai Jiao Tong University
       year: 2015-2019
+    - course: Exchange student (Scholarship)
+      institution: Waseda University
+      year: 2018-2018
 
 # Skills
 # For av"ai"lable icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,13 +68,13 @@ skills:
         icon: atom
         icon_pack: "fas"
       - name: Characterization
-        description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
+        description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy, Mass Analysis"
         percent: 90
         icon: flask-vial
         icon_pack: "fas"
       - name: General
-        description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
-        percent: 80
+        description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab"
+        percent: 90
         icon: pen-fancy
         icon_pack: "fas"
   - name: Hobbies

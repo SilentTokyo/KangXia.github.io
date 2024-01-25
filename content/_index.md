@@ -62,27 +62,59 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: The University of Tokyo
+          company_url: https://www.u-tokyo.ac.jp/en/
+          company_logo: ''
+          location: Tokyo
+          date_start: '2021-04'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Assist in the daily management of the laboratory (e.g., maintenance of equipment)
+              * Guide junior members of the laboratory in their learning and research activities
+              * Initialize new research projects and apply for competitive fundings and awards
+        - title: Summer Intern
+          company: Shanghai Jiao Tong University
+          company_url: https://en.sjtu.edu.cn/
+          company_logo: ''
+          location: Shanghai
+          date_start: '2019-07'
+          date_end: '2019-08'
+          description:  |2-
+              Collaboration with Professor Pengfei Zhang on the project of high-entropy alloys
+              
+              Responsibilities include:
+
+              * Synthesize mesoporous multimetallic oxides according to previous reports and catalytic application (e.g., carbon dioxide hydrogenation reaction)
+              * Prepare silica-supported multimetallic oxides by mechanical ball milling, sol-gel process, and evaporation-induced self-assembly (EISA) methods
+        - title: Project Lead
+          company: 16th Shanghai Jiao Tong University Undergraduate Innovation and Practice Program
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Shanghai
+          date_start: '2017-09'
+          date_end: '2018-09'
+          description: |2-
+              Project name: Research and Evaluation of Recycled Carbon Fiber Reinforced Thermoplastic Resin Composite Sizing Agent (research funding: 30,000 RMB)
+
+              Responsibilities include:
+
+              * Design, selection and fabrication of surface modifiers for recycled carbon fibers
+              * Evaluate the interface bonding between carbon fibers and thermoplastic resins
+        - title: Research Intern
+          company: Shanghai Fengxian District Environmental Protection Bureau
+          company_url: ''
+          company_logo: ''
+          location: Shanghai
+          date_start: '2017-07'
+          date_end: '2017-08'
+          description: |2-
+              Responsibilities include:
+
+              * Perform water quality testing to monitor the rivers in Shanghai city
+              * Prepare reports of results and communicate with other departments/laboratories
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +130,122 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.jst.go.jp/gtex/en/index.html
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: ''
+          organization: Japan Science and Technology Agency
+          organization_url: https://www.jst.go.jp/EN/
+          title: Member of JST-GteX program (Hydrogen Area)
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-12'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: ''
+          organization: 8th Asia-Oceania Conference on Green and Sustainable Chemistry
+          organization_url: https://www.greenchemistry.science.auckland.ac.nz/
+          title: Magritek Prize for Best Student Oral Presentation
+          url: ''
+        - certificate_url: https://www.jsps.go.jp/english/e-pd/
+          date_end: ''
+          date_start: '2023-9'
+          description: '2-year grant: 2024-2026, research funding: 1,600,000 Yen'
+          icon: ''
+          organization: Japan Society for the Promotion of Science
+          organization_url: https://www.jsps.go.jp/english/e-pd/
+          title: JSPS DC2
+          url: ''
+        - certificate_url: https://confit.atlas.jp/guide/event/csj103rd/top
+          date_end: ''
+          date_start: '2023-4'
+          description: ''
+          icon: ''
+          organization: The Chemical Society of Japan
+          organization_url: https://www.chemistry.or.jp/en/
+          title: CSJ Student Presentation Award
+          url: ''
+        - certificate_url: https://www.jaci.or.jp/gscn/page_03/awards/Student_Travel_16th.html
+          date_end: ''
+          date_start: '2023-4'
+          description: ''
+          icon: ''
+          organization: Japan Association for Chemical Innovation
+          organization_url: https://www.jaci.or.jp/english/
+          title: 16th GSC Student Travel Grant Award
+          url: ''
+        - certificate_url: https://festa.csj.jp/2022/
+          date_end: ''
+          date_start: '2022-12'
+          description: ''
+          icon: ''
+          organization: The Chemical Society of Japan
+          organization_url: https://www.chemistry.or.jp/en/
+          title: CSJ Festa Doctoral Oral Award
+          url: ''
+        - certificate_url: https://festa.csj.jp/2022/
+          date_end: ''
+          date_start: '2022-12'
+          description: ''
+          icon: ''
+          organization: The Chemical Society of Japan
+          organization_url: https://www.chemistry.or.jp/en/
+          title: CSJ Festa Excellent Poster Presentation Award
+          url: ''  
+        - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
+          date_end: ''
+          date_start: '2022-4'
+          description: ''
+          icon: ''
+          organization: Japan Science and Technology Agency
+          organization_url: https://www.jst.go.jp/EN/
+          title: Fellowship for Integrated Materials Science and Career Development
+          url: ''
+        - certificate_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
+          date_end: ''
+          date_start: '2020-4'
+          description: ''
+          icon: ''
+          organization: The University of Tokyo
+          organization_url: https://www.u-tokyo.ac.jp/en/
+          title: World-leading Innovative Graduate Study program for Materials Research, Information, and Technology (MERIT-WINGS) Fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-6'
+          description: The 25th Chemistry and Chemical Engineering Outstanding Undergraduate Thesis Conference in Shanghai area
+          icon: ''
+          organization: Shanghai Society of Chemistry and Chemical Industry
+          organization_url: ''
+          title: Excellent Presentation Award (First prize)
+          url: ''
+        - certificate_url: ''
+          date_end: '2018-8'
+          date_start: '2018-3'
+          description: ''
+          icon: ''
+          organization: Waseda University & Tingyi Holding Group
+          organization_url: ''
+          title: Master Kong Dream Scholarship Program
+          url: ''        
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2017-12'
+          description: Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+          icon: ''
+          organization: China Society for Industrial and Applied Mathematics
+          organization_url: https://en.csiam.org.cn/
+          title: First Prize (Shanghai area & National Outstanding Candidate)
+          url: ''        
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2017-8'
+          description: ''
+          icon: ''
+          organization: Fengxian District Government of Shanghai
+          organization_url: ''
+          title: Outstanding Student Internship Award
           url: ''
     design:
       columns: '2'
@@ -237,20 +359,19 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: xiakang@g.ecc.u-tokyo.ac.jp
+      phone: ''
+      appointment_url: ''
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Hongo 7-3-1
+        city: Bunkyo-ku
+        region: Tokyo
+        postcode: '113-0022'
+        country: Japan
+        country_code: JP
+      directions: Engineering Building 3 and take the elevator to Office 7A03 on Floor 7
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Weekday 10:00 to 19:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
