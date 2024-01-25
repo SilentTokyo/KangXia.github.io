@@ -132,7 +132,7 @@ sections:
       items:
         - certificate_url: https://www.jst.go.jp/gtex/en/index.html
           date_end: ''
-          date_start: '2024-1'
+          date_start: 'Jan 2024'
           description: ''
           icon: ''
           organization: Japan Science and Technology Agency
@@ -141,7 +141,7 @@ sections:
           url: ''
         - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
           date_end: ''
-          date_start: '2023-12'
+          date_start: 'Dec 2023'
           description: ''
           icon: ''
           organization: 8th Asia-Oceania Conference on Green and Sustainable Chemistry
@@ -150,7 +150,7 @@ sections:
           url: ''
         - certificate_url: https://www.jsps.go.jp/english/e-pd/
           date_end: ''
-          date_start: '2023-9'
+          date_start: 'Sep 2023'
           description: '2-year grant: 2024-2026, research funding: 1,600,000 Yen'
           icon: ''
           organization: Japan Society for the Promotion of Science
@@ -159,7 +159,7 @@ sections:
           url: ''
         - certificate_url: https://confit.atlas.jp/guide/event/csj103rd/top
           date_end: ''
-          date_start: '2023-4'
+          date_start: 'Apr 2023'
           description: ''
           icon: ''
           organization: The Chemical Society of Japan
@@ -168,7 +168,7 @@ sections:
           url: ''
         - certificate_url: https://www.jaci.or.jp/gscn/page_03/awards/Student_Travel_16th.html
           date_end: ''
-          date_start: '2023-4'
+          date_start: 'Apr 2023'
           description: ''
           icon: ''
           organization: Japan Association for Chemical Innovation
@@ -177,7 +177,7 @@ sections:
           url: ''
         - certificate_url: https://festa.csj.jp/2022/
           date_end: ''
-          date_start: '2022-12'
+          date_start: 'Dec 2022'
           description: ''
           icon: ''
           organization: The Chemical Society of Japan
@@ -186,7 +186,7 @@ sections:
           url: ''
         - certificate_url: https://festa.csj.jp/2022/
           date_end: ''
-          date_start: '2022-12'
+          date_start: 'Dec 2022'
           description: ''
           icon: ''
           organization: The Chemical Society of Japan
@@ -195,7 +195,7 @@ sections:
           url: ''  
         - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
           date_end: ''
-          date_start: '2022-4'
+          date_start: 'Apr 2022'
           description: ''
           icon: ''
           organization: Japan Science and Technology Agency
@@ -204,7 +204,7 @@ sections:
           url: ''
         - certificate_url: https://www.merit.t.u-tokyo.ac.jp/merit/en/index.html
           date_end: ''
-          date_start: '2020-4'
+          date_start: 'Apr 2020'
           description: ''
           icon: ''
           organization: The University of Tokyo
@@ -213,7 +213,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2019-6'
+          date_start: 'Jun 2019'
           description: The 25th Chemistry and Chemical Engineering Outstanding Undergraduate Thesis Conference in Shanghai area
           icon: ''
           organization: Shanghai Society of Chemistry and Chemical Industry
@@ -221,8 +221,8 @@ sections:
           title: Excellent Presentation Award (First prize)
           url: ''
         - certificate_url: ''
-          date_end: '2018-8'
-          date_start: '2018-3'
+          date_end: 'Aug 2018'
+          date_start: 'Mar 2018'
           description: ''
           icon: ''
           organization: Waseda University & Tingyi Holding Group
@@ -231,7 +231,7 @@ sections:
           url: ''        
         - certificate_url: ''
           date_end: ''
-          date_start: '2017-12'
+          date_start: 'Dec 2017'
           description: Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
           icon: ''
           organization: China Society for Industrial and Applied Mathematics
@@ -240,7 +240,7 @@ sections:
           url: ''        
         - certificate_url: ''
           date_end: ''
-          date_start: '2017-8'
+          date_start: 'Aug 2017'
           description: ''
           icon: ''
           organization: Fengxian District Government of Shanghai
