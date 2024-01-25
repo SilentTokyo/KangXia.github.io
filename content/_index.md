@@ -67,7 +67,7 @@ sections:
           company_url: https://www.u-tokyo.ac.jp/en/
           company_logo: ''
           location: Tokyo
-          date_start: '2021-4'
+          date_start: 'Apr 2021'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -80,8 +80,8 @@ sections:
           company_url: https://en.sjtu.edu.cn/
           company_logo: ''
           location: Shanghai
-          date_start: '2019-7'
-          date_end: '2019-8'
+          date_start: 'Jul 2019'
+          date_end: 'Aug 2019'
           description:  |2-
               Collaboration with Professor Pengfei Zhang on the project of high-entropy alloys
               
@@ -94,8 +94,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai
-          date_start: '2017-9'
-          date_end: '2018-9'
+          date_start: 'Sep 2017'
+          date_end: 'Sep 2018'
           description: |2-
               Project name: Research and Evaluation of Recycled Carbon Fiber Reinforced Thermoplastic Resin Composite Sizing Agent (research funding: 30,000 RMB)
 
@@ -108,8 +108,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai
-          date_start: '2017-7'
-          date_end: '2017-8'
+          date_start: 'Jul 2017'
+          date_end: 'Aug 2017'
           description: |2-
               Responsibilities include:
 
