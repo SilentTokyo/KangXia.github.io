@@ -150,7 +150,7 @@ sections:
           url: ''
         - certificate_url: https://www.jsps.go.jp/english/e-pd/
           date_end: ''
-          date_start: '2023-9-30'
+          date_start: '2023-09-30'
           description: '2-year grant: 2024-2026, research funding: 1,600,000 Yen'
           icon: ''
           organization: Japan Society for the Promotion of Science
