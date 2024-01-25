@@ -57,23 +57,23 @@ skills:
       - name: General
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
         percent: 90
-        icon: 👨‍🔬
-        #icon_pack: ''
+        icon: user-graduate
+        icon_pack: "fas"
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
         percent: 100
-        icon: 🧪
-        #icon_pack: ''
+        icon: atom
+        icon_pack: "fas"
       - name: Characterization
         description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
         percent: 90
-        icon: 🧪
-        #icon_pack: ''
+        icon: flask-vial
+        icon_pack: "fas"
       - name: General
         description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
         percent: 80
-        icon: ✒️
-        #icon_pack: ''
+        icon: pen-fancy
+        icon_pack: "fas"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -81,13 +81,13 @@ skills:
       - name: Badminton
         description: SJTU Freshmen Tournament Round of 32
         percent: 70
-        icon: 🏸
-        icon_pack: ''
+        icon: medal
+        icon_pack: "fas"
       - name: Cycling
         description: 6 years’ experience in road and mountain bikes
         percent: 90
-        icon: 🚴
-        icon_pack: ''
+        icon: person-biking
+        icon_pack: "fas"
       - name: Photography
         description: iStock contract photographer
         percent: 90
@@ -96,28 +96,28 @@ skills:
       - name: Traveling
         description: China, Japan, Korea, New Zealand
         percent: 75
-        icon: 🌏
-        icon_pack: ''
+        icon: earth-asia
+        icon_pack: "fas"
       - name: Cooking
         description: Enjoy trying new dishes
         percent: 60
-        icon: 👨‍🍳
-        icon_pack: ''
+        icon: kitchen-set
+        icon_pack: "fas"
       - name: Poem/Literature writing
         description: Fond of regulated verse and Ci poetry
         percent: 75
-        icon: 📝
-        icon_pack: ''
+        icon: file-pen
+        icon_pack: "fas"
 
 # Social/Academic Networking
-# For av"ai"lable icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an em"ai"l link, use ""fas"" icon pack, "envelope" icon, and a link in the
-#   form "m"ai"lto:your-em"ai"l@example.com" or "/#contact" for contact widget.
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: "fas"
-    link: xiakang@g.ecc.u-tokyo.ac.jp
-  - icon: Instagram
+    link: "mailto: xiakang@g.ecc.u-tokyo.ac.jp"
+  - icon: instagram
     icon_pack: "hb"
     link: https://www.instagram.com/silentokyo_kane/
     label: Follow me on Instagram
