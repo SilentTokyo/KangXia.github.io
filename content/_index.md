@@ -357,7 +357,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any comments or questions, feel free to contact with me.
       # Contact (add or remove contact options as necessary)
       email: xiakang@g.ecc.u-tokyo.ac.jp
       phone: ''
@@ -374,8 +374,8 @@ sections:
         - 'Weekday 10:00 to 19:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '35.714282'
+        longitude: '139.762864'  
       contact_links:
         - icon: twitter
           icon_pack: fab
