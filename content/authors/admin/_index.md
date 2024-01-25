@@ -11,7 +11,7 @@ last_name: Xia
 
 # Status ''
 status:
-  icon: 🌞
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
@@ -58,22 +58,22 @@ skills:
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
         percent: 90
         icon: 👨‍🔬
-        icon_pack: ''
+        #icon_pack: ''
       - name: Material
         description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
         percent: 100
         icon: 🧪
-        icon_pack: ''
+        #icon_pack: ''
       - name: Characterization
         description: "Gas Adsorption Analysis, Elemental Analysis, X-ray Diffraction, UV-Visible Spectroscopy, Scanning/Transmission Electron Microscopy, X-ray Photon Spectroscopy, Dynamic Light Scattering, Raman Spectroscopy, Infrared Spectroscopy"
         percent: 90
         icon: 🧪
-        icon_pack: ''
+        #icon_pack: ''
       - name: General
         description: "English/Japanese/Chinese Paper Writing, News Writing, Microsoft Office, Origin Lab"
         percent: 80
         icon: ✒️
-        icon_pack: ''
+        #icon_pack: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
