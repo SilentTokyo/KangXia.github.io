@@ -5,8 +5,8 @@ event: 104th The Chemical Society of Japan Annual Meeting
 event_url: https://pub.confit.atlas.jp/en/event/csj104th
 
 location: Nihon University
-address: A1444(1444, Bldg. 14 [4F])
-  street: Narashinodai 7-24-1
+address: A1444 (1444, Bldg. 14 [4F])
+  street: '7-24-1' Narashinodai 
   city: Funabashi
   region: Chiba
   postcode: '2740063'
