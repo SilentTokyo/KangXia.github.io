@@ -67,7 +67,7 @@ sections:
           company_url: https://www.u-tokyo.ac.jp/en/
           company_logo: ''
           location: Tokyo
-          date_start: 'April, 2021'
+          date_start: Apr 2021
           date_end: ''
           description: |2-
               Responsibilities include:
