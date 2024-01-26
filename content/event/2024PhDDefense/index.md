@@ -14,9 +14,9 @@ address:
 
 summary: ''
 abstract: |2-
-'Here in this talk, I will elaborate my previous and current efforts togehter with future scopes in the field of hybrid materials of metal nanoparticles and polyoxometalates. Further contents are to be added.
-
-date in 2024 Summer'
+'Here in this talk (estimated in July/August, 2024), I will elaborate:
+* previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates
+* future scope and plans on expanding this interesting area and collaborating with other research fields'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
