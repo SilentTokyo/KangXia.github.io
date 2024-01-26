@@ -39,6 +39,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.researchgate.net/profile/Kang-Xia-3
+  - icon: linkedin
+    icon_pack: fab
+    name: Connect
+    url: https://www.linkedin.com/in/kang-xia-3475b811a/
 url_code: ''
 url_pdf: ''
 url_slides: ''
