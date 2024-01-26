@@ -346,7 +346,7 @@ sections:
     design:
       columns: '2'
       view: list
-  #- block: tag_cloud  #not needed now
+  #- block: tag_cloud  #Kang Xia: not needed now
   #  content:
   #    title: Popular Topics
   #  design:
@@ -378,15 +378,15 @@ sections:
         longitude: '139.762864'  
       contact_links:
         - icon: square-instagram
-          icon_pack: fas
+          icon_pack: "fas"
           name: DM Me
           link: 'https://www.instagram.com/silentokyo_kane/'
         - icon: linkedin
-          icon_pack: fas
+          icon_pack: "fas"
           name: Connect with Me
           link: 'https://www.linkedin.com/in/kang-xia-3475b811a/'
         - icon: video
-          icon_pack: fas
+          icon_pack: "fas"
           name: Zoom Me
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?

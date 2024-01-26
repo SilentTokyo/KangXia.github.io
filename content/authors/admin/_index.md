@@ -77,7 +77,7 @@ skills:
         percent: 90
         icon: flask-vial
         icon_pack: "fas"
-      - name: General
+      - name: Soft
         description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab"
         percent: 90
         icon: pen-fancy
@@ -125,12 +125,12 @@ social:
   - icon: envelope
     icon_pack: "fas"
     link: "mailto: xiakang@g.ecc.u-tokyo.ac.jp"
-  - icon: instagram
-    icon_pack: "hb"
+  - icon: square-instagram
+    icon_pack: "fas"
     link: https://www.instagram.com/silentokyo_kane/
-    label: Follow me on Instagram
-    display:
-      header: true
+    #label: Follow me on Instagram
+    #display:
+    #  header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `"ai"` icon pack
     icon_pack: "ai"
     link: https://scholar.google.com/citations?user=smDTKn8AAAAJ
