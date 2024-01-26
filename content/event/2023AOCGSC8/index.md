@@ -9,7 +9,7 @@ address:
   street: 22 Symonds 
   city: Auckland CBD
   region: Auckland
-  postcode: '101020'
+  postcode: 1010
   country: New Zealand
 
 summary: ''.
