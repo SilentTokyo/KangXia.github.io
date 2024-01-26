@@ -12,7 +12,7 @@ address:
   postcode: '1138656'
   country: Japan
 
-summary: ''
+summary: 'test'
 abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate: i) previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates, and ii) future scope and plans on expanding this interesting area and collaborating with other research fields, and iii) Further details to be added later.' 
 
 # Talk start and end times.
