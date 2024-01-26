@@ -12,7 +12,7 @@ address:
   postcode: '2740063'
   country: Japan
 
-summary: 'test'
+summary: ''
 abstract: 'Metal nanoparticles modified with polyoxometalates (POMs) have been extensively studied because these modifications can modulate their catalytic performance and achieve concerted catalysis. Despite utilization of unique multielectron transfer and photoredox property of POMs in photo- and electro-catalysis, the inherent low stability of POM-modified metal nanoparticles still limits their catalytic applications. Hence, in a further study, we developed a rather feasible strategy to obtain ultrasmall stable Au nanoparticles (~3 nm) modified with multidentate POMs in a non-polar organic solvent. It is noted that they possess an extraordinarily high stability that is tolerant to high concentration, temperature, and long time, having them well-perform in the selective aerobic oxidation of benzyl alcohol to benzaldehyde without noticeable particle size changes even after the reaction. Such fascinating properties may be attributed to the enhanced electronic effect and steric effect of multidentate POM ligands.'
 
 # Talk start and end times.
