@@ -57,6 +57,11 @@ education:
 skills:
   - name: Technical
     items:
+      - name: Language
+        description: "Chinese (native), English (full professional), Japanese (full professional), German (elementary), Sanskrit (elementary)"
+        percent: 80
+        icon: language
+        icon_pack: "fas"
       - name: General
         description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
         percent: 90

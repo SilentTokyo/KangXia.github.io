@@ -377,14 +377,14 @@ sections:
         latitude: '35.714282'
         longitude: '139.762864'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
+        - icon: square-instagram
+          icon_pack: fas
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'https://www.instagram.com/silentokyo_kane/'
+        - icon: linkedin
+          icon_pack: fas
+          name: Connect with Me
+          link: 'https://www.linkedin.com/in/kang-xia-3475b811a/'
         - icon: video
           icon_pack: fas
           name: Zoom Me
