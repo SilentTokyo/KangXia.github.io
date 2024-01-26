@@ -13,14 +13,14 @@ address:
   country: Japan
 
 summary: ''
-abstract: '|2-
-Here in this talk, I will elaborate my previous and current efforts togehter with future scopes in the field of hybrid materials of metal nanoparticles and polyoxometalates. Further contents are to be added.
+abstract: |2-
+'Here in this talk, I will elaborate my previous and current efforts togehter with future scopes in the field of hybrid materials of metal nanoparticles and polyoxometalates. Further contents are to be added.
 
 date: 2024 Summer'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2024 Summer'
+date: '2024-07-29T10:00:00Z'
 # date_end: '2024-03-18T09:20:00Z'
 all_day: false
 
