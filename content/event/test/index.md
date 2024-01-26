@@ -1,5 +1,5 @@
 ---
-title: Test Talk
+title: Ultra-stable and highly reactive colloidal gold nanoparticle catalysts protected using multi-dentate polyoxometalates
 
 event: 104th The Chemical Society of Japan Annual Meeting
 event_url: https://pub.confit.atlas.jp/en/event/csj104th
@@ -13,7 +13,7 @@ address:
   country: Japan
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Metal nanoparticles modified with polyoxometalates (POMs) have been extensively studied because these modifications can modulate their catalytic performance and achieve concerted catalysis. Despite utilization of unique multielectron transfer and photoredox property of POMs in photo- and electro-catalysis, the inherent low stability of POM-modified metal nanoparticles still limits their catalytic applications. Hence, in a further study, we developed a rather feasible strategy to obtain ultrasmall stable Au nanoparticles (~3 nm) modified with multidentate POMs in a non-polar organic solvent. It is noted that they possess an extraordinarily high stability that is tolerant to high concentration, temperature, and long time, having them well-perform in the selective aerobic oxidation of benzyl alcohol to benzaldehyde without noticeable particle size changes even after the reaction. Such fascinating properties may be attributed to the enhanced electronic effect and steric effect of multidentate POM ligands.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,13 +61,13 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+# Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+# - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+# Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
