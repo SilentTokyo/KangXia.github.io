@@ -9,8 +9,8 @@ address:
   street: 22 Symonds 
   city: Auckland CBD
   region: Auckland
-  postcode: '1010'
-  country: NewZealand
+  postcode: '2740063'
+  country: Japan
 
 summary: ''.
 abstract: 'Gold nanoparticles have unique physiochemical properties, making them a subject of great interest as catalysts. Recently, theoretical studies reveal that “anionic” gold nanoparticles can effectively activate molecular oxygen (O2) for oxidation reactions using O2 as the sole oxidant. However, due to the complexity and difficulty of designing these catalysts, limited studies have been reported. Herein, we report a feasible methodology of obtaining stable and reactive “anionic” gold nanoparticle catalysts by utilizing multidentate polyoxometalates (POMs) as protecting ligands toward efficient oxidation reactions using O2 as a green oxidant. We confirmed the existence of robust electronic interaction between gold nanoparticles and multidentate POMs, and the electronic states and reactivity of the gold nanoparticle catalysts can be sequentially modulated. Notably, these catalysts display excellent performance in oxidative dehydrogenation of piperidone derivatives to the corresponding enaminone products. Furthermore, these catalysts possessed higher stability than conventional gold nanoparticle catalysts without this modification. Our findings highlight the ability of inorganic multidentate POM ligands, bearing structural stability, steric and electronic effect, to confer long-lived and highly reactive characteristics upon gold nanoparticles. These approaches can be further extended to preparing various metal nanoparticles other than gold, enabling the design of novel nanomaterials for the development of environmentally benign reactions.'
