@@ -13,7 +13,8 @@ address:
   country: Japan
 
 summary: ''
-abstract: 'Here in this talk, I will elaborate my previous and current efforts togehter with future scopes in the field of hybrid materials of metal nanoparticles and polyoxometalates. Further contents are to be added.'
+abstract: |2-
+'Here in this talk, I will elaborate my previous and current efforts togehter with future scopes in the field of hybrid materials of metal nanoparticles and polyoxometalates. Further contents are to be added.'
 
 'date': 2024 Summer
 
@@ -24,7 +25,7 @@ abstract: 'Here in this talk, I will elaborate my previous and current efforts t
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
