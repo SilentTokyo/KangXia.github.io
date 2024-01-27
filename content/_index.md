@@ -247,6 +247,15 @@ sections:
           organization_url: ''
           title: Outstanding Student Internship Award
           url: ''
+        - certificate_url: ''
+          date_end: '2019-06-30'
+          date_start: '2015-09-01'
+          description: Excellent Student Cadre (once); C-rank University Scholarships (twice); Excellent Military Training Cadet; Excellent Regional Leader of the Freshman Zhufei Orientation Program
+          icon: ''
+          organization: Shanghai Jiao Tong University
+          organization_url: ''
+          title: Other University-level Honors
+          url: ''
     design:
       columns: '2'
   - block: collection

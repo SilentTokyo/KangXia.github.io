@@ -17,7 +17,7 @@ abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-29T10:00:00Z'
+date: '2024-07-29T00:00:00Z'
 #date_end: '2024-03-18T09:20:00Z'
 all_day: false
 
