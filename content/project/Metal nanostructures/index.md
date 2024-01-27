@@ -13,10 +13,14 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: "ai"
     name: Follow
-    url: https://twitter.com/georgecushen
+    link: https://www.researchgate.net/profile/Kang-Xia-3
+  - icon: linkedin
+    icon_pack: "fab"
+    name: Connect
+    link: 'https://www.linkedin.com/in/kang-xia-3475b811a/'
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -9,14 +9,18 @@ date: '2023-12-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Jelifer Maniago on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: "ai"
     name: Follow
-    url: https://twitter.com/georgecushen
+    link: https://www.researchgate.net/profile/Kang-Xia-3
+  - icon: linkedin
+    icon_pack: "fab"
+    name: Connect
+    link: 'https://www.linkedin.com/in/kang-xia-3475b811a/'
 url_code: ''
 url_pdf: ''
 url_slides: ''
