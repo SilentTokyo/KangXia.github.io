@@ -63,7 +63,7 @@ skills:
         icon: language
         icon_pack: "fas"
       - name: General
-        description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Surface Modification, Morphology Control, Coordination Chemistrty, Self-assembly"
+        description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Surface Modification, Morphology Control, Coordination Chemistrty, Self-assembly, Mechanochemistry"
         percent: 90
         icon: user-graduate
         icon_pack: "fas"
@@ -78,8 +78,8 @@ skills:
         icon: flask-vial
         icon_pack: "fas"
       - name: Soft
-        description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab"
-        percent: 90
+        description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab, SciFinder, Github, Lightroom"
+        percent: 80
         icon: pen-fancy
         icon_pack: "fas"
   - name: Hobbies
@@ -120,7 +120,7 @@ skills:
         description: Guitar, Singing, Football, Running, Gaming (having plated many games till 2023)
         percent: 50
         icon: steam
-        icon_pack: "fas"
+        icon_pack: "fab"
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

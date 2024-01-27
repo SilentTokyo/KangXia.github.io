@@ -236,7 +236,7 @@ sections:
           icon: ''
           organization: China Society for Industrial and Applied Mathematics
           organization_url: https://en.csiam.org.cn/
-          title: First Prize (Shanghai area & National Outstanding Candidate)
+          title: First Prize (Shanghai area & National Prize Candidate)
           url: ''        
         - certificate_url: ''
           date_end: ''

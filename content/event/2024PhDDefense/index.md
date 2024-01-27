@@ -17,9 +17,8 @@ abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-29T00:00:00Z'
-#date_end: '2024-03-18T09:20:00Z'
-all_day: false
+date: '2024-07-29'
+date_end: '2024-08-04'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
