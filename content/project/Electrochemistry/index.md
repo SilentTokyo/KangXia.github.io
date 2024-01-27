@@ -10,7 +10,7 @@ external_link: ''
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/brown-green-and-blue-round-buttons-ZZ3qxWFZNRg)'
-  focal_point: ""
+  focal_point: smart
   preview_only: false
 
 links:
