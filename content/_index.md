@@ -302,10 +302,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Synthesis
+          tag: Synthesis
+        - name: Material
+          tag: Material
+        - name: Application
+          tag: Application
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
