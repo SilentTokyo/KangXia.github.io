@@ -1,15 +1,15 @@
 ---
-title: "An example journal article"
+title: "Supported Anionic Gold Nanoparticle Catalysts Modified Using Highly Negatively Charged Multivacant Polyoxometalates"
 authors:
-admin
-Takafumi Yatabe
-Kentaro Yonesato
-Tomohiro Yabe
-Soichi Kikkawa
-Seiji Yamazoe
-Ayako Nakata
-Kazuya Yamaguchi
-Kosuke Suzuki
+- admin
+- Takafumi Yatabe
+- Kentaro Yonesato
+- Tomohiro Yabe
+- Soichi Kikkawa
+- Seiji Yamazoe
+- Ayako Nakata
+- Kazuya Yamaguchi
+- Kosuke Suzuki
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
