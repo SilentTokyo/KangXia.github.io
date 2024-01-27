@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Angewandte Chemie International Edition, 61*(e202205873)"
+publication: "*Angewandte Chemie International Edition, 61* (e202205873)"
 publication_short: ""
 
 abstract: Although supported anionic gold nanoparticle catalysts have been theoretically investigated for their efficacy in activating O2 in aerobic oxidation reactions, limited studies have been reported due to the difficulty of designing these catalysts. Herein, we developed a feasible method for preparing supported anionic gold nanoparticle catalysts using multivacant lacunary polyoxometalates with high negative charges. We confirmed the strong and robust electronic interaction between gold nanoparticles and multivacant lacunary polyoxometalates, and the electronic states of the supported gold nanoparticle catalysts can be sequentially modulated. Particularly, the catalyst prepared using [SiW9O34]10− acted as an efficient reusable heterogeneous catalyst, showing superior catalytic performance for the oxidative dehydrogenation of piperidone derivatives to the corresponding enaminones and remarkably higher stability than supported gold nanoparticle catalysts without this modification.
@@ -70,13 +70,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
