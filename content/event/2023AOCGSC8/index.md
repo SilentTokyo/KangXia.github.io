@@ -1,5 +1,5 @@
 ---
-title: Development of High Entropy Alloy Subnanocluster Catalysts and its Structural Reversibility under Oxidative/reductive Conditions
+title: Development of metal nanoparticle catalysts modified using multidentate polyoxometalates
 
 event: 8th Asia-Oceania Conference on Green and Sustainable Chemistry
 event_url: https://www.greenchemistry.science.auckland.ac.nz/

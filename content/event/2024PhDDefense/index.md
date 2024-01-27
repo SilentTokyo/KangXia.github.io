@@ -13,16 +13,16 @@ address:
   country: Japan
 
 summary: 'test'
-abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate: i) previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates, and ii) future scope and plans on expanding this interesting area and collaborating with other research fields, and iii) Further details to be added later.' 
+abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate: i) previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates, and ii) future scope and plans on expanding this interesting area and collaborating with other research fields, and iii) Further details to be added later.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-07-29T10:00:00Z'
-# date_end: '2024-03-18T09:20:00Z'
+#date_end: '2024-03-18T09:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
