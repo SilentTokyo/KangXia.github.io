@@ -9,8 +9,9 @@ date: '2023-06-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/brown-green-and-blue-round-buttons-ZZ3qxWFZNRg)'
+  focal_point: ""
+  preview_only: false
 
 links:
   - icon: twitter
