@@ -312,19 +312,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Featured Publications
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: collection
     id: talks
     content:
@@ -367,11 +364,11 @@ sections:
         longitude: '139.762864'  
       contact_links:
         - icon: square-instagram
-          icon_pack: "fas"
+          icon_pack: "fab"
           name: DM Me
           link: 'https://www.instagram.com/silentokyo_kane/'
         - icon: linkedin
-          icon_pack: "fas"
+          icon_pack: "fab"
           name: Connect with Me
           link: 'https://www.linkedin.com/in/kang-xia-3475b811a/'
         - icon: video

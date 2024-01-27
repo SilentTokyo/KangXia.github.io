@@ -11,7 +11,7 @@ last_name: Xia
 
 # Status ''
 status:
-  icon: 🌟
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -125,9 +125,9 @@ social:
   - icon: envelope
     icon_pack: "fas"
     link: "mailto: xiakang@g.ecc.u-tokyo.ac.jp"
-  - icon: square-instagram
-    icon_pack: "fas"
-    link: https://www.instagram.com/silentokyo_kane/
+  - icon: orcid
+    icon_pack: "ai"
+    link: https://orcid.org/my-orcid?orcid=0000-0002-9376-8953
     #label: Follow me on Instagram
     #display:
     #  header: true
