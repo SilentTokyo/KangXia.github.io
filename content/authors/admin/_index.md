@@ -63,12 +63,12 @@ skills:
         icon: language
         icon_pack: "fas"
       - name: General
-        description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Inorganic/Organic Synthesis, Surface Modification, Coordination Chemistrty"
+        description: "Homogeneous/Heterogeneous Catalysis, Catalyst Design, Surface Modification, Morphology Control, Coordination Chemistrty, Self-assembly"
         percent: 90
         icon: user-graduate
         icon_pack: "fas"
       - name: Material
-        description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Hydrothermal Synthesis, Self-assembly"
+        description: "Metal Nanoparticles, Polyoxometalates, Mesoporous Materials, Zeolites, Nanocarbon, Inorganic/Organic Synthesis, Hydrothermal Synthesis, "
         percent: 100
         icon: atom
         icon_pack: "fas"
@@ -88,7 +88,7 @@ skills:
     items:
       - name: Badminton
         description: SJTU Freshmen Tournament Round of 32
-        percent: 70
+        percent: 75
         icon: medal
         icon_pack: "fas"
       - name: Cycling
@@ -97,7 +97,7 @@ skills:
         icon: person-biking
         icon_pack: "fas"
       - name: Photography
-        description: iStock contract photographer
+        description: iStock contract photographer (see the "galary" section)
         percent: 90
         icon: camera-retro
         icon_pack: "fas"
@@ -115,6 +115,11 @@ skills:
         description: Fond of regulated verse and Ci poetry
         percent: 75
         icon: file-pen
+        icon_pack: "fas"
+      - name: Others
+        description: Guitar, Singing, Football, Running, Gaming (having plated many games till 2023)
+        percent: 50
+        icon: steam
         icon_pack: "fas"
 
 # Social/Academic Networking
@@ -151,5 +156,5 @@ social:
 highlight_name: true
 ---
 
-Kang Xia received his BEng from Shanghai Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications.
+Kang Xia received his BEng from Shanghai Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications (some selected research projects will be introduced later).
 {style="text-align: justify;"}
