@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Angewandte Chemie International Edition, 62*(e202314506)"
+publication: "*Angewandte Chemie International Edition, 62* (e202314506)"
 publication_short: ""
 
 abstract: Polyoxometalates (POMs), anionic metal-oxygen nanoclusters that possess various composition-dependent properties, are widely used to modify the existing properties of metal nanoparticles and to endow them with new ones. Herein, we present an overview of recent advances in hybrid materials that consist of metal nanoparticles and POMs. Following a brief introduction on the inception of this area and its development, representative properties and applications of these materials in various fields such as electrochemistry, photochemistry, and catalysis are introduced. We discuss how the combination of two classic inorganic materials facilitates cooperative and synergistic behavior, and we also give personal perspectives on the future development of this field.
