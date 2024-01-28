@@ -117,7 +117,7 @@ skills:
         icon: file-pen
         icon_pack: "fas"
       - name: Others
-        description: Guitar, Singing, Football, Running, Gaming (having plated many games till 2023)
+        description: Guitar, Hiking, Football, Running, Gaming (having plated many games till 2023)
         percent: 50
         icon: steam
         icon_pack: "fab"
