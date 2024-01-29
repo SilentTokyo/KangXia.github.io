@@ -43,12 +43,10 @@ categories:
 
 ## Overview
 
-- To fast and accurately analyze data is essential across all periods of scientific research: 
+- To fast and accurately analyze data is essential across all periods of scientific research. Here in this post, I'll dive into my own experience navigating some powerful tools from below three aspects:
   1. Acquire foundational knowledges and understand the most urgent subjects in the begining;
   2. Understand cut-to-edge research trends and repeat reported meaningful works during the study;
   3. Compare currrent findings with previous ones and summarize them.
-
-- Here in this post, I'll dive into my own experience navigating some powerful tools from above three aspects.
 
 ## Introduction
 
