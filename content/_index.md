@@ -71,6 +71,7 @@ sections:
           date_end: ''
           description: |2-
               Workshop towards Communicating Engineers; Advanced Academic Writing Course; Advanced Academic Presentation Course (English course)
+              
               Responsibilities include:
 
               * Assist students while students work on collaborative problem-solving tasks
