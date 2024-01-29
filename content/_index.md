@@ -62,9 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Teaching Assistant (with Dr. Ryo Maie)
+          company: Division of Global Education, The University of Tokyo
+          company_url: https://global-eng.t.u-tokyo.ac.jp/en/
+          company_logo: ''
+          location: Tokyo
+          date_start: '2023-04-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Assist students while students work on collaborative problem-solving tasks
+              * Observe the teaching and provide suggestions/feedback for improvement
         - title: Research Assistant
-          company: The University of Tokyo
-          company_url: https://www.u-tokyo.ac.jp/en/
+          company: School of Engineering, The University of Tokyo
+          company_url: https://www.t.u-tokyo.ac.jp/en/soe
           company_logo: ''
           location: Tokyo
           date_start: '2021-04-01'
