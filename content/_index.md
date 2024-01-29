@@ -115,6 +115,19 @@ sections:
 
               * Perform water quality testing to monitor the rivers in Shanghai city
               * Prepare reports of results and communicate with other departments/laboratories
+        - title: Others
+          company: ''
+          company_url: ''
+          company_logo: ''
+          location: Shanghai
+          date_start: '2015-09-01'
+          date_end: '2019-06-30'
+          description: |2-
+              * Prisident Assistant [Student Career Development Union, Shanghai Jiao Tong University]
+              * Class Monitor [Shanghai Jiao Tong University]
+              * Vice Captain of SJTU team [The 1st China Chem-E-Car Competition]
+              * Marketing Intern [Super Career Education Company]
+              * Participant [Two-Sided Summer Community and Enterprise Internship Camp for College Students]
     design:
       columns: '2'
   - block: accomplishments
