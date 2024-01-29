@@ -62,6 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Teaching Assistant (with Dr. Ryo Maie)
+          company: Division of Global Education, The University of Tokyo
+          company_url: https://global-eng.t.u-tokyo.ac.jp/en/
+          company_logo: ''
+          location: Tokyo
+          date_start: '2023-04-01'
+          date_end: ''
+          description: |2-
+              Workshop towards Communicating Engineers; Advanced Academic Writing Course; Advanced Academic Presentation Course (English course)
+              Responsibilities include:
+
+              * Assist students while students work on collaborative problem-solving tasks
+              * Observe the teaching and provide suggestions/feedback for improvement
         - title: Research Assistant
           company: School of Engineering, The University of Tokyo
           company_url: https://www.t.u-tokyo.ac.jp/en/soe
@@ -75,19 +88,6 @@ sections:
               * Assist in the daily management of the laboratory (e.g., maintenance of equipment)
               * Guide junior members of the laboratory in their learning and research activities
               * Initialize new research projects and apply for competitive fundings and awards
-        - title: Graduate Teaching Assistant (with Dr. Ryo Maie)
-          company: Division of Global Education, The University of Tokyo
-          company_url: https://global-eng.t.u-tokyo.ac.jp/en/
-          company_logo: ''
-          location: Tokyo
-          date_start: '2023-04-01'
-          date_end: '2024-03-31'
-          description: |2-
-              Workshop towards Communicating Engineers; Advanced Academic Writing Course; Advanced Academic Presentation Course (English course)
-              Responsibilities include:
-
-              * Assist students while students work on collaborative problem-solving tasks
-              * Observe the teaching and provide suggestions/feedback for improvement
         - title: Summer Intern
           company: Shanghai Jiao Tong University
           company_url: https://en.sjtu.edu.cn/
