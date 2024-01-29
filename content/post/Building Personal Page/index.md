@@ -9,7 +9,7 @@ summary: Troubleshoot during building my homepage.
 projects: []
 
 # Date published
-date: '2024-01-30T00:00:00Z'
+date: '2024-01-29T00:00:00Z'
 
 # Date updated
 lastmod: ''
@@ -33,10 +33,10 @@ authors:
 
 tags:
   - Academic
-  - Information
+  - CV
 
 categories:
-  - Searching
+  - Internet
   - Experience
 ---
 
