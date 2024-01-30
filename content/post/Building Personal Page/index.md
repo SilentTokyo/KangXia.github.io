@@ -3,7 +3,7 @@ title: Troubleshooting during building my homepage
 subtitle: perspectives from somebody who few experience in programing 
 
 # Summary for listings and search engines
-summary: ''
+summary: About building personal homepage
 # Link this post with a project
 projects: []
 

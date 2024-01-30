@@ -138,10 +138,10 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               * Prisident Assistant [Student Career Development Union, Shanghai Jiao Tong University]
-              * Class Monitor [School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University]
+              * Class Monitor [Shanghai Jiao Tong University]
               * Vice Captain of SJTU team [The 1st China Chem-E-Car Competition, Tianjin]
               * Marketing Intern [Super Career Education Company, Shanghai]
-              * Participant [Two-Sided Summer Community and Enterprise Internship Camp for College Students, Shanghai]
+              * Participant [Two-Sided Summer Community and Enterprise Internship Camp for College Students]
     design:
       columns: '2'
   - block: accomplishments
