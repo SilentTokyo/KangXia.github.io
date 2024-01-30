@@ -78,7 +78,7 @@ skills:
         icon: flask-vial
         icon_pack: "fas"
       - name: Soft
-        description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab, SciFinder, Github, Lightroom"
+        description: "English/Japanese/Chinese Paper Writing, News Writing, Illustration, Microsoft Office, Origin Lab, SciFinder, GitHub, Lightroom"
         percent: 80
         icon: pen-fancy
         icon_pack: "fas"
@@ -156,5 +156,5 @@ social:
 highlight_name: true
 ---
 
-Kang Xia received his BEng from Shanghai Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications (some selected research projects will be introduced later).
+Kang Xia received his BEng from Shanghai Jiao Tong University in 2019. He then completed his MEng under the supervision of Prof. Kosuke Suzuki and Prof. Kazuya Yamaguchi at the University of Tokyo. Currently, he is pursuing his PhD in the same group, where his research focuses on the controlled design of hybrid materials consisting of polyoxometalates and metal nanoparticles as well as their applications (some selected research projects are to be introduced).
 {style="text-align: justify;"}

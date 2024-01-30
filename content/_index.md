@@ -138,10 +138,10 @@ sections:
           date_end: '2019-06-30'
           description: |2-
               * Prisident Assistant [Student Career Development Union, Shanghai Jiao Tong University]
-              * Class Monitor [Shanghai Jiao Tong University]
-              * Vice Captain of SJTU team [The 1st China Chem-E-Car Competition]
-              * Marketing Intern [Super Career Education Company]
-              * Participant [Two-Sided Summer Community and Enterprise Internship Camp for College Students]
+              * Class Monitor [School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University]
+              * Vice Captain of SJTU team [The 1st China Chem-E-Car Competition, Tianjin]
+              * Marketing Intern [Super Career Education Company, Shanghai]
+              * Participant [Two-Sided Summer Community and Enterprise Internship Camp for College Students, Shanghai]
     design:
       columns: '2'
   - block: accomplishments
@@ -277,7 +277,7 @@ sections:
         - certificate_url: ''
           date_end: '2019-06-30'
           date_start: '2015-09-01'
-          description: Excellent Student Cadre (once); C-rank University Scholarships (twice); Excellent Military Training Cadet; Excellent Regional Leader of the Freshman Zhufei Orientation Program
+          description: Excellent Student Cadre (once); C-rank University Scholarship (twice); Excellent Military Training Cadet; Excellent Regional Leader of the Freshman Zhufei Orientation Program
           icon: ''
           organization: Shanghai Jiao Tong University
           organization_url: ''
@@ -401,10 +401,10 @@ sections:
         latitude: '35.714282'
         longitude: '139.762864'  
       contact_links:
-        - icon: square-instagram
+        - icon: researchgate
           icon_pack: "fab"
-          name: DM Me
-          link: 'https://www.instagram.com/silentokyo_kane/'
+          name: Follow Me
+          link: 'https://www.researchgate.net/profile/Kang-Xia-3'
         - icon: linkedin
           icon_pack: "fab"
           name: Connect with Me
