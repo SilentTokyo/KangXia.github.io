@@ -157,15 +157,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.jst.go.jp/gtex/en/index.html
-          date_end: ''
-          date_start: '2024-01-01'
-          description: ''
-          icon: ''
-          organization: Japan Science and Technology Agency
-          organization_url: https://www.jst.go.jp/EN/
-          title: Member of JST-GteX program (Hydrogen Area)
-          url: ''
         - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
           date_end: ''
           date_start: '2023-12-01'
