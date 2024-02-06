@@ -16,10 +16,10 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-02-06T00:00:00Z"
-doi: ""
+doi: "10.1038/s41467-024-45066-9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-07T00:00:00Z"
+publishDate: "2024-02-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ publishDate: "2024-02-07T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications, 15* (in press)"
+publication: "*Nature Communications, 61* (851)"
 publication_short: ""
 
 abstract: Owing to their remarkable properties, gold nanoparticles are applied in diverse fields, including catalysis, electronics, energy conversion and sensors. However, for catalytic applications of colloidal gold nanoparticles, the tradeoff between their reactivity and stability is a significant concern. Here we report a universal approach for preparing stable and reactive colloidal small (~3 nm) gold nanoparticles by using multi-dentate polyoxometalates as protecting agents in non-polar solvents. These nanoparticles exhibit exceptional stability even under conditions of high concentration, long-term storage, heating and addition of bases. Moreover, they display excellent catalytic performance in various oxidation reactions of organic substrates using molecular oxygen as the sole oxidant. Our findings highlight the ability of inorganic multi-dentate ligands with structural stability and robust steric and electronic effects to confer stability and reactivity upon gold nanoparticles. This approach can be extended to prepare metal nanoparticles other than gold, enabling the design of novel nanomaterials with promising applications..

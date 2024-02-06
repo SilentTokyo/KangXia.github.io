@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Wiley**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202208979)'
+  caption: 'Image credit: Kang Xia'
   focal_point: ""
   preview_only: false
 
