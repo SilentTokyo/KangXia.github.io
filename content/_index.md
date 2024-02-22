@@ -157,6 +157,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-02-21'
+          description: ''
+          icon: ''
+          organization: The 593th Spotlight Research on Chem-Station
+          organization_url: https://www.chem-station.com/blog/2024/02/nanoc.html
+          title: Interviewer
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: ''
+          icon: ''
+          organization: WInG Project under The GteX Program
+          organization_url: https://www.catec.t.u-tokyo.ac.jp/wing
+          title: Member
+          url: ''
         - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
           date_end: ''
           date_start: '2023-12-01'
