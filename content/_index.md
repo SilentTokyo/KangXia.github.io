@@ -157,14 +157,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: https://www.chem-station.com/blog/2024/02/nanoc.html
           date_end: ''
           date_start: '2024-02-21'
           description: ''
           icon: ''
-          organization: The 593th Spotlight Research on Chem-Station
-          organization_url: https://www.chem-station.com/blog/2024/02/nanoc.html
-          title: Interviewer
+          organization: Chem-Station
+          organization_url: https://www.chem-station.com/
+          title: Interviewer (The 593th Spotlight Research)
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -173,9 +173,9 @@ sections:
           icon: ''
           organization: WInG Project under The GteX Program
           organization_url: https://www.catec.t.u-tokyo.ac.jp/wing
-          title: Member
+          title: Student Member
           url: ''
-        - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-12-01'
           description: ''
@@ -184,7 +184,7 @@ sections:
           organization_url: https://www.greenchemistry.science.auckland.ac.nz/
           title: Magritek Prize for Best Student Oral Presentation
           url: ''
-        - certificate_url: https://www.jsps.go.jp/english/e-pd/
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-09-30'
           description: '2-year grant: 2024-2026, research funding: 1,600,000 Yen'
@@ -193,7 +193,7 @@ sections:
           organization_url: https://www.jsps.go.jp/english/e-pd/
           title: JSPS DC2
           url: ''
-        - certificate_url: https://confit.atlas.jp/guide/event/csj103rd/top
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-04-01'
           description: ''
@@ -211,7 +211,7 @@ sections:
           organization_url: https://www.jaci.or.jp/english/
           title: 16th GSC Student Travel Grant Award
           url: ''
-        - certificate_url: https://festa.csj.jp/2022/
+        - certificate_url: ''
           date_end: ''
           date_start: '2022-12-01'
           description: ''
@@ -220,7 +220,7 @@ sections:
           organization_url: https://www.chemistry.or.jp/en/
           title: CSJ Festa Doctoral Oral Award
           url: ''
-        - certificate_url: https://festa.csj.jp/2022/
+        - certificate_url: ''
           date_end: ''
           date_start: '2022-12-01'
           description: ''
@@ -229,7 +229,7 @@ sections:
           organization_url: https://www.chemistry.or.jp/en/
           title: CSJ Festa Excellent Poster Presentation Award
           url: ''  
-        - certificate_url: https://www.greenchemistry.science.auckland.ac.nz/
+        - certificate_url: ''
           date_end: ''
           date_start: '2022-04-01'
           description: ''
