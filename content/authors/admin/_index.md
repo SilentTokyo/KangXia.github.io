@@ -120,7 +120,7 @@ skills:
         description: Singing, Guitar, Reading, Hiking, Football, Running, [WANT to start triathlon]
         percent: 50
         icon: music
-        icon_pack: "fab"
+        icon_pack: "fas"
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
