@@ -117,9 +117,9 @@ skills:
         icon: file-pen
         icon_pack: "fas"
       - name: Others
-        description: Guitar, Hiking, Football, Running, Gaming (having plated many games till 2023)
+        description: Singing, Guitar, Reading, Hiking, Football, Running, [WANT to start triathlon]
         percent: 50
-        icon: steam
+        icon: music
         icon_pack: "fab"
 
 # Social/Academic Networking
