@@ -157,6 +157,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-05-01'
+          description: ''
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: National Award (To be announced)
+          url: ''
         - certificate_url: https://www.chem-station.com/blog/2024/02/nanoc.html
           date_end: ''
           date_start: '2024-02-21'
@@ -286,7 +295,7 @@ sections:
         - certificate_url: ''
           date_end: '2019-06-30'
           date_start: '2015-09-01'
-          description: Excellent Student Cadre (once); C-rank University Scholarship (twice); Excellent Military Training Cadet; Excellent Regional Leader of the Freshman Zhufei Orientation Program
+          description: Excellent Student Cadre (once); University Excellent Academic Scholarship (twice); Excellent Military Training Cadet; Excellent Regional Leader of the Freshman Zhufei Orientation Program
           icon: ''
           organization: Shanghai Jiao Tong University
           organization_url: ''
