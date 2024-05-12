@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Kang XIA  夏 康
+title: Mr. Kang XIA
 
 # Name pronunciation (optional)
 name_pronunciation: ''
