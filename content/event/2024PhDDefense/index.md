@@ -1,5 +1,5 @@
 ---
-title: Studies on Catalyst Design of Metal Nanoparticle-Based Materials Using Lacunary Polyoxometalate Modification (tentative)
+title: Studies on Design of Metal Nanoparticle-Based Catalysts Modified with Lacunary Polyoxometalate
 
 event: PhD defense
 event_url: ''
@@ -17,8 +17,8 @@ abstract: 'Here in this talk (estimated in July/August, 2024), I will elaborate:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-22'
-date_end: '2024-08-04'
+date: '2024-07-25T15:00:00Z'
+date_end: '2024-07-25T18:00:00Z'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
