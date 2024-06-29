@@ -390,8 +390,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: list
   - block: collection
     id: talks
     content:
