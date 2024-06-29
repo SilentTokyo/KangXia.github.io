@@ -62,6 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: JSPS Research Fellowship for Young Scientists
+          company: The University of Tokyo
+          company_url: ''
+          company_logo: ''
+          location: Tokyo
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              Project number: 24KJ0563
+              
+              Responsibilities include:
+
+              * Conduct cut-to-edge researches in green catalysis
+              * Carry out collaborative researches
         - title: Graduate Teaching Assistant (with Dr. Ryo Maie)
           company: Division of Global Education, The University of Tokyo
           company_url: https://global-eng.t.u-tokyo.ac.jp/en/
