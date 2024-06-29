@@ -13,7 +13,7 @@ address:
   country: Japan
 
 summary: 'test'
-abstract: 'Here in this talk, I will elaborate: i) previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates, and ii) future scope and plans on expanding this interesting area and collaborating with other research fields. Notably, some interesting yet unpublished will also be discussed in this talk.'
+abstract: 'Here in this talk, I will elaborate: i) previous and current efforts on developing hybrid materials of metal nanoparticles and polyoxometalates, and ii) future scope and plans on expanding this interesting area and collaborating with other research fields. Notably, some interesting yet unpublished results will also be discussed in this talk.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
