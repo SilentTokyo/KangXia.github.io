@@ -391,7 +391,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: list
+      view: card
   - block: collection
     id: talks
     content:
