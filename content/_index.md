@@ -173,12 +173,12 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-05-01'
+          date_start: '2024-07-09'
           description: ''
           icon: ''
-          organization: ''
+          organization: China Scholarship Council
           organization_url: ''
-          title: National Award (To be announced)
+          title: Chinese Government Award for Outstanding Self-financed Students Abroad
           url: ''
         - certificate_url: https://www.chem-station.com/blog/2024/02/nanoc.html
           date_end: ''
