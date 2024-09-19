@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Kang XIA
+title: Dr. Kang XIA
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate of Chemistry
+role: Ph.D. in Applied Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -68,7 +68,7 @@ sections:
           company_logo: ''
           location: Tokyo
           date_start: '2024-04-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
               Project number: 24KJ0563
               
@@ -82,7 +82,7 @@ sections:
           company_logo: ''
           location: Tokyo
           date_start: '2023-04-01'
-          date_end: ''
+          date_end: '2024-08-01'
           description: |2-
               Workshop towards Communicating Engineers; Advanced Academic Writing Course; Advanced Academic Presentation Course (English course)
               
@@ -96,7 +96,7 @@ sections:
           company_logo: ''
           location: Tokyo
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
               Responsibilities include:
 
@@ -390,7 +390,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: card
   - block: collection
     id: talks
