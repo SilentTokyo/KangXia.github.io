@@ -62,6 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Project Assistant Professor
+          company: The University of Tokyo
+          company_url: ''
+          company_logo: ''
+          location: Tokyo
+          date_start: '2024-10-01'
+          date_end: ''
+          description: |2-            
+              Responsibilities include:
+
+              * Develop robust electrocatalysts towards efficient water electrolysis
+              * Explore electrocatalytic behaviors of metal nanoparticle-polyoxometalate hybrids
+              * Supervise of students related to the above research topics
+        - title: Graduate Teaching Assistant (with Dr. Ryo Maie)
         - title: JSPS Research Fellowship for Young Scientists
           company: The University of Tokyo
           company_url: ''

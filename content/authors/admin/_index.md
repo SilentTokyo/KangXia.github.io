@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Applied Chemistry
+role: Project Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.u-tokyo.ac.jp/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research is focused on controlled design of hybrid materials of polyoxometalates and metal nanoparticles as well as their applications
+bio: My current research is focused on controlled design of hybrid materials of polyoxometalates and metal nanoparticles as well as their applications, among which electrochemistry is my recent primary focus.
 
 # Interests to show in About widget
 interests:
